@@ -118,12 +118,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e2d5632bae999d499b5d32d0ba41f47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationDuration: 2
+  rotationDuration: 1
   rotationAngle: {x: 0, y: 360, z: 0}
   rotationMode: 1
   rotationEase: 25
   punchDuration: 1
   punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
+  punchVibrato: 5
   punchElasticity: 1
   punchEase: 31
